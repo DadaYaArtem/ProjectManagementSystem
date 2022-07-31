@@ -1,0 +1,5 @@
+{
+  "dbUrl": "jdbc:h2:./test",
+  "dbUserName": "",
+  "dbPassword": ""
+}
